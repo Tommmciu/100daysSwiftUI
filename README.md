@@ -5,3 +5,5 @@ https://www.hackingwithswift.com/100/swiftui
 
 ## Introduction
 #1 - Variables 
+#2 - Collections
+- Enums can specify additional informations
